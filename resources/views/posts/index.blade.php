@@ -2,6 +2,7 @@
 
 @section('content')
     <h1>Post</h1>
+    <br>
     @if(count($posts) > 0)
         @foreach($posts as $post)
             <div class="card">

@@ -2,6 +2,11 @@
 
 @section('content')
     <h1>{{$title}}</h1>
-    <p>This is about page.</p>
+    <br>
+    <h3>This is about page.</h3>
+    <br>
+    <p>
+        This is the Laravel learning project.
+    </p>
 @endsection
 
